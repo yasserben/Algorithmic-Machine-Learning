@@ -1,7 +1,9 @@
 # Algorithmic-Machine-Learning
 
 These notebooks were carried out during the Alogirthmic Machine Learning class, during my last year of engineering school at EURECOM.
+
 I worked on these subjects in pairs with Cocogeek (Github Link : https://github.com/Cocogeek)
+
 The notebooks are organized as follows :
 
 1. Music Recommender System : a large-scale recommender system using ALS algorithm
